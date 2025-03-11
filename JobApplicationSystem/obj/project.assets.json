@@ -5298,9 +5298,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\JobApplicationSystem.csproj",
-      "projectName": "JobApplicationSystem",
-      "projectPath": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\JobApplicationSystem.csproj",
+      "projectUniqueName": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\CQRS_Demo.csproj",
+      "projectName": "CQRS_Demo",
+      "projectPath": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\CQRS_Demo.csproj",
       "packagesPath": "C:\\Users\\kstha\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\obj\\",
       "projectStyle": "PackageReference",

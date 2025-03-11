@@ -168,3 +168,4 @@ C:\Users\kstha\source\repos\JobRecruitmentApp\JobRecruitmentApp\obj\Debug\net8.0
 C:\Users\kstha\source\repos\JobRecruitmentApp\JobRecruitmentApp\obj\Debug\net8.0\ref\JobRecruitmentApp.dll
 C:\Users\kstha\source\repos\JobRecruitmentApp\JobRecruitmentApp\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\kstha\source\repos\JobRecruitmentApp\JobRecruitmentApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kstha\source\repos\JobRecruitmentApp\JobRecruitmentApp\obj\Debug\net8.0\JobRecruitmentApp.sourcelink.json

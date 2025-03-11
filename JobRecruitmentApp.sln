@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobRecruitmentApp", "JobRecruitmentApp\JobRecruitmentApp.csproj", "{5220BDC9-0D34-4897-9C7C-365754665359}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobApplicationSystem", "JobApplicationSystem\JobApplicationSystem.csproj", "{F8C2235C-64B6-4955-8980-D9CC5D8AA111}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS_Demo", "JobApplicationSystem\CQRS_Demo.csproj", "{F8C2235C-64B6-4955-8980-D9CC5D8AA111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Demo", "MVC_Demo\MVC_Demo.csproj", "{DE347A9A-D40C-493C-B573-FAB44D3565E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F8C2235C-64B6-4955-8980-D9CC5D8AA111}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8C2235C-64B6-4955-8980-D9CC5D8AA111}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8C2235C-64B6-4955-8980-D9CC5D8AA111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE347A9A-D40C-493C-B573-FAB44D3565E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE347A9A-D40C-493C-B573-FAB44D3565E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE347A9A-D40C-493C-B573-FAB44D3565E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE347A9A-D40C-493C-B573-FAB44D3565E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

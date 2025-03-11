@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "mw9ieTtQpBRApEkvjuwzsZpGaNt7iYruoCi1+LWsx8Q=",
-  "Source": "JobApplicationSystem",
-  "BasePath": "_content/JobApplicationSystem",
+  "Hash": "FFyUQjAgys7pOP+xH1CgVhpaoi3rrSizHFUpOcJwKmg=",
+  "Source": "CQRS_Demo",
+  "BasePath": "_content/CQRS_Demo",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

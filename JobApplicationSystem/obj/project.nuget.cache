@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ASyh3UpMQw=",
+  "dgSpecHash": "4ZWb6L0ig+s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\JobApplicationSystem.csproj",
+  "projectFilePath": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\CQRS_Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kstha\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\kstha\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
