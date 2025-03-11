@@ -44,12 +44,18 @@ namespace JobRecruitmentApp.Controllers
 
         // API POST: /api/job
         [HttpPost]
-        public async Task<ActionResult> AddJob(JobDTO jobDTO)
+        public async Task<ActionResult> AddJob([FromBody] JobDTO jobDTO)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState); // Trả về lỗi nếu dữ liệu không hợp lệ
+            }
+
             var job = _mapper.Map<Job>(jobDTO);
             await _jobRepository.AddJob(job);
             return CreatedAtAction(nameof(GetJob), new { id = job.Id }, _mapper.Map<JobDTO>(job));
         }
+
 
         // API PUT: /api/job/{id}
         [HttpPut("{id}")]
