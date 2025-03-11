@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5220BDC9-0D34-4897-9C7C-365754665359}|JobRecruitmentApp\\JobRecruitmentApp.csproj|c:\\users\\kstha\\source\\repos\\jobrecruitmentapp\\jobrecruitmentapp\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5220BDC9-0D34-4897-9C7C-365754665359}|JobRecruitmentApp\\JobRecruitmentApp.csproj|solutionrelative:jobrecruitmentapp\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|c:\\users\\kstha\\source\\repos\\jobrecruitmentapp\\jobapplicationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|solutionrelative:jobapplicationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|c:\\users\\kstha\\source\\repos\\jobrecruitmentapp\\jobapplicationsystem\\jobapplicationsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|solutionrelative:jobapplicationsystem\\jobapplicationsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|c:\\users\\kstha\\source\\repos\\jobrecruitmentapp\\jobapplicationsystem\\cqrs\\queries\\getalljobsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|solutionrelative:jobapplicationsystem\\cqrs\\queries\\getalljobsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|c:\\users\\kstha\\source\\repos\\jobrecruitmentapp\\jobapplicationsystem\\cqrs\\queries\\getjobbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|solutionrelative:jobapplicationsystem\\cqrs\\queries\\getjobbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|c:\\users\\kstha\\source\\repos\\jobrecruitmentapp\\jobapplicationsystem\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|solutionrelative:jobapplicationsystem\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|c:\\users\\kstha\\source\\repos\\jobrecruitmentapp\\jobapplicationsystem\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|solutionrelative:jobapplicationsystem\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|c:\\users\\kstha\\source\\repos\\jobrecruitmentapp\\jobapplicationsystem\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|solutionrelative:jobapplicationsystem\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|c:\\users\\kstha\\source\\repos\\jobrecruitmentapp\\jobapplicationsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|solutionrelative:jobapplicationsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|c:\\users\\kstha\\source\\repos\\jobrecruitmentapp\\jobapplicationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8C2235C-64B6-4955-8980-D9CC5D8AA111}|JobApplicationSystem\\JobApplicationSystem.csproj|solutionrelative:jobapplicationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobRecruitmentApp\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "JobRecruitmentApp\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobRecruitmentApp\\Controllers\\JobController.cs",
+              "RelativeToolTip": "JobRecruitmentApp\\Controllers\\JobController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:06:26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobApplicationSystem.http",
+              "DocumentMoniker": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\JobApplicationSystem.http",
+              "RelativeDocumentMoniker": "JobApplicationSystem\\JobApplicationSystem.http",
+              "ToolTip": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\JobApplicationSystem.http",
+              "RelativeToolTip": "JobApplicationSystem\\JobApplicationSystem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-11T08:05:08.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllJobsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\CQRS\\Queries\\GetAllJobsQuery.cs",
+              "RelativeDocumentMoniker": "JobApplicationSystem\\CQRS\\Queries\\GetAllJobsQuery.cs",
+              "ToolTip": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\CQRS\\Queries\\GetAllJobsQuery.cs",
+              "RelativeToolTip": "JobApplicationSystem\\CQRS\\Queries\\GetAllJobsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:05:05.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetJobByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\CQRS\\Queries\\GetJobByIdQuery.cs",
+              "RelativeDocumentMoniker": "JobApplicationSystem\\CQRS\\Queries\\GetJobByIdQuery.cs",
+              "ToolTip": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\CQRS\\Queries\\GetJobByIdQuery.cs",
+              "RelativeToolTip": "JobApplicationSystem\\CQRS\\Queries\\GetJobByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:05:04.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\Interface\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "JobApplicationSystem\\Interface\\IJobRepository.cs",
+              "ToolTip": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\Interface\\IJobRepository.cs",
+              "RelativeToolTip": "JobApplicationSystem\\Interface\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:05:01.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "JobApplicationSystem\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\Models\\Job.cs",
+              "RelativeToolTip": "JobApplicationSystem\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:04:59.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "JobApplicationSystem\\Repository\\JobRepository.cs",
+              "ToolTip": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "JobApplicationSystem\\Repository\\JobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:04:54.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JobApplicationSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JobApplicationSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:25:43.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "JobApplicationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\Program.cs",
+              "RelativeToolTip": "JobApplicationSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:25:02.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "JobApplicationSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\kstha\\source\\repos\\JobRecruitmentApp\\JobApplicationSystem\\appsettings.json",
+              "RelativeToolTip": "JobApplicationSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T02:25:09.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
